@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ABC</string>
+    <string name="no_items_match_your_search">No items match your search.</string>
+    <string name="search">Search</string>
+    <string name="top_characters_current_list">Top characters (current list)</string>
+    <string name="no_characters_to_analyze">No characters to analyze.</string>
+    <string name="list_statistics">List statistics</string>
+</resources>
